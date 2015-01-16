@@ -3,4 +3,6 @@ INTRODUCTION
 Beginning of the paper.
 
 METHODS
-clone lots of stuff. over and over and over again. 
+
+DISCUSSION
+
